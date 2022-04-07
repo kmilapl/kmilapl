@@ -1,4 +1,4 @@
-  <img align="left" height="100" src="https://github.com/kmilapl/kmilapl/blob/main/toreadme/gif2.gif"/>
+  <img align="left" height="100" src="https://github.com/kmilapl/kmilapl/blob/main/toreadme/gif3.gif"/>
 
   <h1 align="center">
 <img width="30px" src="https://github.com/kmilapl/kmilapl/blob/main/toreadme/gif5.gif"> Oie, sou a Cami! Bem vindo(a) <img width="30px" src="https://github.com/kmilapl/kmilapl/blob/main/toreadme/gif6.gif">
