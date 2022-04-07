@@ -4,7 +4,8 @@
 <img width="30px" src="https://github.com/kmilapl/kmilapl/blob/main/toreadme/gif5.gif"> Oie, sou a Cami! Bem vindo(a) <img width="30px" src="https://github.com/kmilapl/kmilapl/blob/main/toreadme/gif6.gif">
   </h1>
   
-<h3 align="center">Estudante de Ciência da Computação com foco em front/backend, e ciência de dados.</h3>
+<h3 align="center">Estudante de Ciência da Computação.</h3>
+<h6 align="center">Minha paixão por tecnologia é gigante, cada vez mais estou buscando novos conhecimentos. <br>O que me encantou: o desenvolvimento (frontend ou backend) e a ciência de dados, dos quais mantenho o foco na aprendizagem.</h6>
 
 ##
 
