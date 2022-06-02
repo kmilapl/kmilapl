@@ -32,9 +32,7 @@
 
 <div align="center">
   <br>
-<a href="https://github.com/kmilapl">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilapl&layout=compact&langs_count=7&title_color=a9def9&text_color=fffff0&bg_color=000000"/><br>
- <img height="130em" src="https://github-readme-stats.vercel.app/api?username=kmilapl&show_icons=true&title_color=ff99c8&text_color=ffffff&bg_color=000000&icon_color=a9def9&border_radius=5&include_all_commits=true&count_private=true"/>
+
  
 ![Snake animation](https://github.com/kmilapl/kmilapl/blob/output/github-contribution-grid-snake.svg)
 </div>
