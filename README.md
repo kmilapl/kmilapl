@@ -15,17 +15,6 @@
   <a href = "mailto:kmilapl@icloud.com"><img height="22" src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/camila-plira/" target="_blank"><img height="22" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
-<div align="center" style="display: inline_block">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-
-
-</div>
-
 
 
 <div align="center">
