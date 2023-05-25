@@ -4,7 +4,7 @@
   </h1>
   
 <h3 align="center">Estudante de Ciência da Computação.</h3>
-<h6 align="center">Minha paixão por tecnologia é gigante, cada vez mais estou buscando novos conhecimentos. <br>O que me encantou: o desenvolvimento (frontend ou backend) e a ciência de dados, dos quais mantenho o foco na aprendizagem.</h6>
+<h6 align="center">Minha paixão por tecnologia é gigante, cada vez mais estou buscando novos conhecimentos. <br>O que me encantou: A ciência de dados, e o desenvolvimento com a linguagem de programação Python, dos quais venho mantenho o foco na aprendizagem.</h6>
 
 ##
 
